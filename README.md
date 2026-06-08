@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project showcases a complete data engineering and analytics lifecycle applied to a retail e-commerce transactional dataset containing over 540,000 rows. The objective was to construct a direct pipelines database connection, extract production tables using SQL Server, run advanced data cleansing filters in Python, and engineer cross-platform executive interfaces in Power BI and Tableau.
 
-* **Interactive Tableau Workspace:** [👉 Paste your Tableau Public URL here]
+* **Interactive Tableau Workspace:** [(https://public.tableau.com/views/E-CommerceOperationalCustomerAnalytics/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 * **Power BI Raw Project Model (.pbix):** [👉 Available within this project folder]
 
 ---
